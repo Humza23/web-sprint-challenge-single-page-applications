@@ -67,9 +67,7 @@ const App = () => {
     setFormData(initialData)
   }
 
-  // const changeHandler = (inputName, inputValue) => {
-  //     setFormData({...formData, [inputName]: inputValue })
-  // }
+
 
   return (
     <div>

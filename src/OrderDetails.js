@@ -3,7 +3,7 @@ import React from 'react'
 const OrderDetails = (props) => {
     const {details} = props
 
-    
+
     return (
         <div>
             <h1>Name: {details.name}</h1>
